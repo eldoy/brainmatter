@@ -1,0 +1,15 @@
+{
+  "name": "brainmatter",
+  "version": "0.1.0",
+  "description": "Extract frontmatter data from markdown and HTML files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no test runner installed'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eldoy/brainmatter"
+  },
+  "author": "Vidar Eldøy <vidar@eldoy.com>",
+  "license": "MIT"
+}
